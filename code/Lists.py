@@ -16,5 +16,5 @@ print(msg);
 
 
 #trying to store senetences
-name=[' "i like fruits" ', 'i like veggies']
+name=[' "i like fruits" ', 'i like veggies' ]
 print(name[0]);

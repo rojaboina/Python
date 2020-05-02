@@ -1,4 +1,4 @@
-#multiples of 3 
+#looping through numerical lists
 multiples=[]
 for value in range(1,31):
  value=value*3

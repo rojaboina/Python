@@ -1,3 +1,4 @@
+#if-else statements
 favourite_fruits=['banana','grapes','oranges']
 for i in favourite_fruits:
  if i == "banana":
@@ -6,7 +7,7 @@ for i in favourite_fruits:
   print("fruit is not in list")
 
 
- #FAVOURITE FRUITS IN OTHER WAYÍ
+ #if-if statements
  favourite_fruits=['banana','grapes','oranges']
  if 'banana' in favourite_fruits:
   print("banana is my favourite fruit")

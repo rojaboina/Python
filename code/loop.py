@@ -1,4 +1,4 @@
-#after every : give only one space to indent 
+#after every : give tab
 magicians=['alica','charlie','henry']
 for magic in magicians:
  print(f"{magic.title()}, it was a great trick")
