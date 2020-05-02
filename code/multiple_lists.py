@@ -1,3 +1,4 @@
+#trouble-if person exists in one list recognise
 current_users=['kyathi','arun','rose','raj','sara','swa']
 new_users=['adhya','anvi','aanya','rose','kyathi']
 for i in new_users:

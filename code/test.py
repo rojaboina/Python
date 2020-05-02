@@ -1,3 +1,4 @@
+#
 alien_colour = 'Red'
 if alien_colour == 'green':
  print("you earned one point")
@@ -5,7 +6,7 @@ else:
  print("dummy")
 
 
- #exercise two
+ #exercise two  
  alien_colour = 'Red'
 if alien_colour == 'green':
  print("you earned one point")

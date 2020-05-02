@@ -1,3 +1,4 @@
+#Loop through the lists
 names=['admin','neha','pooja','kevin','haley']
 
 for i in names:

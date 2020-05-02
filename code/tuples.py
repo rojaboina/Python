@@ -1,3 +1,4 @@
+#creating tuples
 menu=('dosa','idli','puri','upma')
 for food in menu:
  print(food)
